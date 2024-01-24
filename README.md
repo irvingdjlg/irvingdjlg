@@ -1,5 +1,10 @@
-### Hi there 👋
+### hola, bienvenidos 👋
+este es mi repositorio personal
 
+👨‍💼 - me gusta trabajar
+🧑‍🎓 - estudio en la ucc
+🇲🇽 - soy mexicano
+🏀 - me gusta el basketbol
 <!--
 **irvingdjlg/irvingdjlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
